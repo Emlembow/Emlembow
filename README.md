@@ -8,7 +8,7 @@ Professionally, I've built tax-compliance infrastructure for major crypto broker
 
 ## Things I've shipped
 
-- 🥗 **[Vibe Dieting](https://vibedieting.xyz/)** — AI-powered nutrition tracking, built solo from prototype to production. [Source](https://github.com/Emlembow/vibe-dieting)
+- 🥗 **[Vibe Dieting](https://vibedieting.xyz/)** — AI-powered nutrition tracking, built solo from prototype to production
 - 🧰 **[Skills](https://github.com/Emlembow/skills)** — reusable agent skills for real workflows
 - 🤖 **[ChatWithPortfolio](https://github.com/Emlembow/ChatWithPortfolio)** — a starter for AI-powered portfolio sites
 - ✍️ **[Starting Points](https://github.com/Emlembow/startingpoints)** — opinionated rules files for better vibe coding
