@@ -2,7 +2,7 @@
 
 I lead product teams for work and build things for fun.
 
-I'm drawn to messy, high-stakes problems: AI agents, crypto infrastructure, public-sector systems, and consumer products. This is my personal GitHub—where I turn ideas into working software, publish reusable tools, and occasionally follow a weird project farther than I probably should.
+I'm drawn to messy, high-stakes problems: AI agents, crypto infrastructure, public-sector systems, and consumer products. This is my personal GitHub—where I mostly build the things I need, and occasionally follow a weird project farther than I probably should.
 
 Professionally, I've built tax-compliance infrastructure for major crypto brokers, agentic operations, institutional digital-asset platforms, and public-sector software.
 
